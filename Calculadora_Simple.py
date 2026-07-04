@@ -68,6 +68,6 @@ en caso de bucle:Asegurese de que sea un numero del 1 al 5, no 0, mayor que 5 o 
     print (res)
 else:
     print(":)")
-#esta es una práctica rústica de creación de funciones y reutilización de codigo,
-también aprendí a manejar tri/exept en este proyecto 
+#esta es una práctica rústica de creación de funciones y reutilización de codigo
+#también aprendí a manejar tri/exept en este proyecto 
 #4/07/2026
