@@ -26,4 +26,4 @@ print(encrypted_text)
 decrypted_text= decrypt(encrypted_text, 13)
 print (decrypted_text)
 
-#este es el último taller de la sección de freecodecamp "Python básico" o "Fundamentos" supuestamente ahora se podría decir que se Python básico, ahora estudiare los loops y bucles en freecodecamp, aunque ya los había estudiado por mi cuenta,al menos while y range 
+#este es el último taller de la sección de freecodecamp "Python básico" o "Fundamentos" supuestamente ahora se podría decir que se Python básico, ahora estudiare los bucles en freecodecamp, aunque ya los había estudiado por mi cuenta,al menos while y la función generativa range()...
